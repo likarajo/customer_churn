@@ -213,7 +213,3 @@ Using:
 * Classification report
 
 The model achieves an accuracy of 84.1%.
-
-## Conclusion
-
-* 
